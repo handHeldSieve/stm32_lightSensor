@@ -9,3 +9,12 @@ female pin header connectors for it to hook up to
 - Datasheets will be stored in the git files instead of Notion, as notion does
 not have an easy way to import PDFs
 - Using wget to get PDFs and other files into the repo/working directory
+
+## 4/13/26
+- Finished divider circuit and RC filter and voltage follower—circuit is mostly
+finished
+- Decided to not take schematic to fabrication, it is too simple to justify
+- Ending the project here
+- Not using wget for future projects, instead, will manually download PDFs
+to the repo, as wget and curl have issues with certain PDF websites (i.e issues
+w/ HTTP1.1)
